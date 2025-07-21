@@ -4,10 +4,6 @@ How to Login Roadrunner Account?
 
 In the era of digital communication, having a reliable and secure email service is essential. Among the various services available, **Roadrunner Email** has managed to carve a niche for itself, especially among users looking for dependable email access combined with robust customer support. Originally provided by Time Warner Cable (TWC), Roadrunner Email became widely popular across North America, especially among business users and residential customers alike.
 
-.. image:: https://img.shields.io/badge/Login%20Now-https://roadrunner.com/login-blue?style=for-the-badge&logo=button
-   :target: url:https://roadrunneraccount.net/
-   :alt: Login Now
-
 Over time, as Time Warner Cable merged into Spectrum, Roadrunner Email became a part of the Spectrum family, but it continued to operate under the well-known `rr.com` and related domains. Whether you're an existing user of Roadrunner Email or someone returning to access an older account, understanding how to log in and troubleshoot the Roadrunner Email service can be incredibly helpful.
 
 This article provides a complete guide on how to login to your Roadrunner account, the features and benefits of using the service, common troubleshooting tips, and other helpful insights.
